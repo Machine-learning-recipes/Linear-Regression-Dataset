@@ -1,1 +1,1 @@
-# Linear-Regression-Reccipe
+# Linear-Regression-Recipe
